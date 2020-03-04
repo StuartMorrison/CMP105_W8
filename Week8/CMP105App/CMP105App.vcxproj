@@ -162,8 +162,15 @@
     <ClCompile Include="Framework\Input.cpp" />
     <ClCompile Include="Framework\GameObject.cpp" />
     <ClCompile Include="Framework\Vector.cpp" />
+    <ClCompile Include="GameObj1.cpp" />
+    <ClCompile Include="GameObj2.cpp" />
+    <ClCompile Include="GameObj3.cpp" />
+    <ClCompile Include="GameObj4.cpp" />
+    <ClCompile Include="LeftPaddle.cpp" />
     <ClCompile Include="Level.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Pong.cpp" />
+    <ClCompile Include="RightPaddle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="DO_NOT_EDIT.txt" />
@@ -175,7 +182,14 @@
     <ClInclude Include="Framework\Input.h" />
     <ClInclude Include="Framework\GameObject.h" />
     <ClInclude Include="Framework\Vector.h" />
+    <ClInclude Include="GameObj1.h" />
+    <ClInclude Include="GameObj2.h" />
+    <ClInclude Include="GameObj3.h" />
+    <ClInclude Include="GameObj4.h" />
+    <ClInclude Include="LeftPaddle.h" />
     <ClInclude Include="Level.h" />
+    <ClInclude Include="Pong.h" />
+    <ClInclude Include="RightPaddle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

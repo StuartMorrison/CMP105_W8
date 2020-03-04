@@ -39,6 +39,27 @@
     <ClCompile Include="Framework\GameObject.cpp">
       <Filter>Framework</Filter>
     </ClCompile>
+    <ClCompile Include="GameObj1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObj2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObj3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObj4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftPaddle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RightPaddle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="README.txt">
@@ -66,6 +87,27 @@
     </ClInclude>
     <ClInclude Include="Framework\GameObject.h">
       <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObj1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObj2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObj3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObj4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftPaddle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RightPaddle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pong.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
